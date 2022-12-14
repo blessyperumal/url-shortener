@@ -27,5 +27,5 @@ public class ShortURLController {
         return urlShortenerService.getOriginalURL(shortURL);
 
     }
-    
+
 }
